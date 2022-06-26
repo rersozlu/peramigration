@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"perabsc.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"perabsc.sol": {
+			"keccak256": "0x0ba168c0406c1189057d5cfe8f3a73af055f307ad3a695147c9a7c5433ec80e9",
+			"urls": [
+				"bzz-raw://96a28697549342b0830244d1d982cdc9628371ef9ed732076d47a38f0705f3d4",
+				"dweb:/ipfs/QmWfhDtJp5yQvwpEVRZD6biEvNNXyVjSiPE6csMHxArS31"
+			]
+		}
+	},
+	"version": 1
+}
